@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-//Leap year should either be divible by 400, or divisble by 4 but not by 100.
+//A leap year is either be divisible by 400, or divisble by 4 but not by 100.
 
 int main(int argc, char *argv[]) {
 	if(argc != 2) {
