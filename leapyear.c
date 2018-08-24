@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
 
 //A leap year is either be divisible by 400, or divisble by 4 but not by 100.
 
