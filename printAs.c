@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*Simple way to practice C loops. 
+Print specific patterns of asterisks based on user input.
+ */
 int main() {
 	char input;
 	printf("This program displays different patterns made of asterisks.\n");
